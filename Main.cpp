@@ -619,9 +619,6 @@ public:
 int main()
 {
 
-	setlocale(LC_ALL, "rus");
-
-
 	Tests tests;
 	tests.solution1();
 	tests.solution2();
